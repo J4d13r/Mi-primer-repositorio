@@ -1,0 +1,23 @@
+.ul {
+    display: flex;
+    gap: 30px;
+    background-color: #333;
+    padding: 9px;
+    list-style: none;
+    
+   
+}
+
+.elementos-de-navegacion {
+
+    flex-wrap: wrap;
+    display: inline-block;
+    
+}
+
+.ul li a {
+    color: #ddd ;
+    text-decoration: none;
+
+}
+
